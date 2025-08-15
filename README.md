@@ -43,6 +43,10 @@
 ![Antenna Design](https://img.shields.io/badge/Antenna%20Design-34495E?style=for-the-badge&logo=signal&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-FF5733?style=for-the-badge&logo=mathworks&logoColor=white)
  
+### **Languages Spoken**
+![Bengali](https://img.shields.io/badge/Bengali-FF9933?style=for-the-badge)  
+![English](https://img.shields.io/badge/English-007ACC?style=for-the-badge)  
+![Hindi](https://img.shields.io/badge/Hindi-FF5733?style=for-the-badge) 
 
 </td>
 <td align="center">
