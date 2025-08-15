@@ -4,6 +4,7 @@
 ---
 
 ## 🚀 About Me  
+
 🎓 **B.Tech in Electronics & Communication Engineering (ECE)**  
 💡 Passionate about **IoT, AI/ML, and Embedded Systems**  
 🔭 Currently working on: **Smart Medicine Dispenser (IoT + AI Monitoring)**  
@@ -15,13 +16,17 @@
 
 ## 🛠 Tech Stack  
 
-**Languages:**  
+<table>
+<tr>
+<td>
+
+**Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 
-**Frameworks & Tools:**  
+**Frameworks & Tools**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
@@ -30,8 +35,22 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
 
-**Specialized In:**  
-`IoT` | `AI/ML` | `Embedded Systems` | `PCB Design` | `Antenna Design` | `MATLAB`  
+**Specialized In**  
+![IoT](https://img.shields.io/badge/IoT-FF6F00?style=for-the-badge&logo=internetofthings&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-8E44AD?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-1F618D?style=for-the-badge&logo=arduino&logoColor=white)
+![PCB Design](https://img.shields.io/badge/PCB%20Design-117A65?style=for-the-badge&logo=kicad&logoColor=white)
+![Antenna Design](https://img.shields.io/badge/Antenna%20Design-34495E?style=for-the-badge&logo=signal&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-FF5733?style=for-the-badge&logo=mathworks&logoColor=white)
+ 
+
+</td>
+<td align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Tech GIF">
+</td>
+</tr>
+</table>
+
 
 ---
 
@@ -59,9 +78,13 @@
 ---
 
 ## 📊 GitHub Stats  
+<div align="center">
+  
 ![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Souvik1610&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik1610&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=Souvik1610&theme=tokyonight)  
+
+</div>
 
 ---
 
@@ -77,4 +100,4 @@
 
 ---
 
-⭐ *"Code, Create, Innovate — Repeat"*
+⭐ *"Code, Create, Innovate — Repeat"* 
