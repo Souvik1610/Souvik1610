@@ -45,8 +45,16 @@
 ---
 
 ## 📚 Research Publications  
+
+[![IEEE](https://img.shields.io/badge/IEEE-Publication-blue?style=for-the-badge&logo=ieee)](https://ieeexplore.ieee.org)  
+
 - 📄 **[Recent Advances in Planar and Conformal Meta-Surfaces in the Design of Multiband Array Antennas](https://ieeexplore.ieee.org/document/10423473)**  
+  ![Conference](https://img.shields.io/badge/Conference-IEEE%20Xplore-green?style=flat-square)  
+  ![DOI](https://img.shields.io/badge/DOI-10.1109%2FICCMC61276.2024.10423473-red?style=flat-square)  
+
 - 📄 **[Design and Performance Analysis of MIMO Antenna at 4.2 GHz](https://ieeexplore.ieee.org/document/10423473)**  
+  ![Conference](https://img.shields.io/badge/Conference-IEEE%20Xplore-green?style=flat-square)  
+  ![DOI](https://img.shields.io/badge/DOI-10.1109%2FICCMC61276.2024.10423473-red?style=flat-square)  
 
 ---
 
